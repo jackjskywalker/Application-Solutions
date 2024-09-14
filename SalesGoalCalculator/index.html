@@ -1,0 +1,49 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summer Sales Earnings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="title-container">
+        <h1>Summer Sales Goal</h1>
+    </div>
+    <form>
+        <label for="goal-type">Set goal by:</label>
+        <select id="goal-type" onchange="toggleGoalInput()">
+            <option value="day">Day</option>
+            <option value="week">Week</option>
+        </select><br><br>
+        <label for="sales-per-day">Sales per day:</label>
+        <input type="number" id="sales-per-day" required><br><br>
+        <label for="sales-per-week">Sales per week:</label>
+        <input type="number" id="sales-per-week" required disabled><br><br>
+        <label for="sales-commission">Sales Commission (%):</label>
+        <input type="number" id="sales-commission" required><br><br>
+        <label for="average-contract-value">Average Contract Value ($):</label>
+        <input type="number" id="average-contract-value" required><br><br>
+        <label for="start-date">Start Date:</label>
+        <input type="date" id="start-date" required><br><br>
+        <label for="end-date">End Date:</label>
+        <input type="date" id="end-date" required><br><br>
+        <label for="day-off">Day off:</label>
+        <select id="day-off">
+            <option value="0">Sunday</option>
+            <option value="1">Monday</option>
+            <option value="2">Tuesday</option>
+            <option value="3">Wednesday</option>
+            <option value="4">Thursday</option>
+            <option value="5">Friday</option>
+            <option value="6">Saturday</option>
+        </select><br><br>
+        <button type="button" onclick="calculateEarnings()">Calculate Earnings</button>
+        <button type="button" onclick="saveResults()">Save Results</button>
+    </form>
+    <div id="result"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

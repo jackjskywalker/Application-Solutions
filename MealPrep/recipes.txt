@@ -1,0 +1,8 @@
+Recipe Name: Scramble Egg
+Ingredients: egg
+Cost: $2.00
+-
+Recipe Name: Steak
+Ingredients: steak
+Cost: $8.00
+-

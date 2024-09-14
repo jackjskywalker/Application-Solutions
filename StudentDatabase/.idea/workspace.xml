@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="314f8411-15b4-4907-8c0b-ae975d905199" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CustomerRegParsing/CustomerRegParsing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/Flex/.idea/Flex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/.idea/PyDevice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/PyDevice/verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluation/Stitching/.idea/Stitching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythagorean/Pythagorean/Pythagorean1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AI/DeepLearning/classification_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AI/DeepLearning/mnist.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/CesarCypher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/CesarCypher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CesarCypher/decrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluation/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Evaluation/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReceiptManager/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ReceiptManager/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReceiptManager/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ReceiptManager/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReceiptManager/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ReceiptManager/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesEarning/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesEarning/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesEarning/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesGoal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesGoal/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesGoal/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Evaluation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Evaluation/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2m2eo7C1DagePVP3QzPqlDAvcCz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jackskywalker/Desktop/SWE/Projects/StudentDatabase"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314f8411-15b4-4907-8c0b-ae975d905199" name="Changes" comment="" />
+      <created>1726279269692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726279269692</updated>
+    </task>
+    <servers />
+  </component>
+</project>
